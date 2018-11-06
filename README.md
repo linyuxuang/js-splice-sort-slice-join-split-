@@ -60,14 +60,14 @@ splice , sort, slice, join, split
               console.log(arr)  
 
 
-    3）slice(从该位开始截取，截取到该位(截取数不包括该位) )
+   3）slice(从该位开始截取，截取到该位(截取数不包括该位) )
 
              var arr=[1,2,3,4,5]
   
              var num=arr.slice(1,3)   //[2, 3]											
 
 																
-    4）join()与split() 这两个方法是互逆的
+   4）join()与split() 这两个方法是互逆的
 		
            join()  //把数组转化成字符串(以什么隔空)
              var arr=[1,2,3,4,5,6];
